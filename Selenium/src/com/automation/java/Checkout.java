@@ -23,6 +23,7 @@ public class Checkout {
 	WebDriver driver = new ChromeDriver();
 	
 	driver.get("http://automationpractice.com/index.php");
+	//comment
 	
 	driver.manage().window().maximize();
 	
